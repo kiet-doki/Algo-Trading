@@ -8,10 +8,10 @@ The first project focuses on the S&P 500, a widely followed index comprising 500
 
 # Project 2: Quantitative Momentum Screener
 
-In the second project, we delve into the world of quantitative momentum investing. This strategy involves investing in assets that have shown the most significant price increase over a specific period. Through data-driven analysis, this project aims to uncover potential investment opportunities with impressive price momentum, providing valuable insights into promising assets.
+In the second project, I delve into the world of quantitative momentum investing. This strategy involves investing in assets that have shown the most significant price increase over a specific period. Through data-driven analysis, this project aims to uncover potential investment opportunities with impressive price momentum, providing valuable insights into promising assets.
 
 # Project 3: Quantitative Value Screener
 
-The third project explores quantitative value investing strategies. Value investing focuses on identifying undervalued stocks in the market. To achieve this, we rely on the concept of multiples, which involves comparing a company's stock price to various measures of its worth, such as earnings or assets. By employing multiple valuation strategies and using a composite approach, this project aims to develop algorithmic value investing strategies that can potentially outperform traditional methods.
+The third project explores quantitative value investing strategies. Value investing focuses on identifying undervalued stocks in the market. To achieve this, I rely on the concept of multiples, which involves comparing a company's stock price to various measures of its worth, such as earnings or assets. By employing multiple valuation strategies and using a composite approach, this project aims to develop algorithmic value investing strategies that can potentially outperform traditional methods.
 
 Each of these projects represents a significant achievement in the realm of investment strategies. By providing clear documentation and insights into the methodologies and results, this repository aims to contribute to the broader understanding of data-driven investment decision-making. Congratulations on completing these projects and best of luck with your future endeavors! Happy investing!
