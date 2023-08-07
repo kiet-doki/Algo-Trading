@@ -1,6 +1,6 @@
 # Projects Overview
 
-Welcome to the Projects Overview section of this repository! This README provides an overview of three exciting projects that explore various investment strategies in the stock market.
+Welcome to the Projects Overview section of this repository! This project was taught by freeCodeCamp.org. This README provides an overview of three exciting projects that explore various investment strategies in the stock market.
 
 ## Project 1: Equal-Weight S&P 500 Screener
 
