@@ -1,3 +1,5 @@
+This project tutorial was created by @nickmccullum
+
 ## Project 1: Equal-Weight S&P 500 Screener
 
 The first project focuses on the S&P 500, a widely followed index comprising 500 large-cap U.S. companies. Unlike the traditional market-capitalization-weighted approach, this project takes a different approach by equally weighting all companies in the index. By doing so, it offers an alternative perspective on the performance of the S&P 500, where each company's influence is identical, regardless of its size.
